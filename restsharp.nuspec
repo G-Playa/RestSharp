@@ -6,7 +6,7 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <description>$description$</description>
-    <language>en-US</language>
+    <language>en-UK</language>
     <projectUrl>http://restsharp.org</projectUrl>
     <licenseUrl>https://github.com/restsharp/RestSharp/blob/master/LICENSE.txt</licenseUrl>
     <iconUrl>http://dl.dropbox.com/u/1827/restsharp100.png</iconUrl>
